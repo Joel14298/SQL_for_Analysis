@@ -1,1 +1,1 @@
-TODO: Update this content later
+This is sample project
